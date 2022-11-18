@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexanderpoilov
+- 👀 I’m interested in JS, REACT, TS and other web development things
+- 🌱 I’m currently learning JS, REACT, TS
+- 📫 How to reach me alexanderpoilov@gmail.com
